@@ -1,2 +1,2 @@
 # slayTheCrossSave
-tool to cross save between pc and android
+Simple tool to cross save between PC and Android, fo Slay The Spire.
