@@ -1,0 +1,12 @@
+[
+    {
+        "config": {
+            "FTPServer": "192.168.XXX.XXX",
+            "FTPPort": "XXXXX",
+            "FTPUser": "XXXXX",
+            "FTPPassword": "XXXXXXXX",
+            "STSPath": "D:\\SteamLibrary\\steamapps\\common\\SlayTheSpire\\"
+
+        }
+    }
+]
