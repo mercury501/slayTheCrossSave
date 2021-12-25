@@ -25,7 +25,8 @@ public class saveHandler {
     boolean checkCurrentRun = true;
 
     String[] file_names = {"IRONCLAD.autosave", "DEFECT.autosave", "WATCHER.autosave", "THE_SILENT.autosave"};
-    String[] prefFileNames = {"STSDataDefect", "STSDataTheSilent", "STSDataVagabond", "STSTips", "STSDataWatcher", "STSUnlocks", "STSAchievements", "STSPlayer", "STSSaveSlots", "STSSeenBosses", "STSSeenCards", "STSSeenRelics", "STSUnlockProgress"};
+    String[] prefFileNames = {"STSDataDefect", "STSDataTheSilent", "STSDataVagabond", "STSTips", "STSDataWatcher", "STSUnlocks", "STSAchievements",
+    	"STSPlayer", "STSSaveSlots", "STSSeenBosses", "STSSeenCards", "STSSeenRelics", "STSUnlockProgress", "STSDaily", "STSBetaCardPreference"};
     String PCSavePath;
     String PCPrefPath;
     String activeRun = "";
